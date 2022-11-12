@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spoomer
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning Blazor
+- 👀 I’m interested in C# and Rust
+- 🌱 I’m currently learning Rust
 
 <!---
 Spoomer/Spoomer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
